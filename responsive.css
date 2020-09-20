@@ -1,0 +1,178 @@
+@media  screen and (max-width:900px) {
+
+    .banner-area {
+        width:100%;
+        margin-top:50px;
+      
+}
+
+.banner-area .left {
+    width:60%;
+}
+
+.banner-area .left img  {
+    
+    margin-left:50px;
+    margin-top:65px;
+    width:100%;
+}
+
+.banner-area .right {
+    width:40%;
+    
+    margin-right:20px;
+}
+
+.banner-area .right img {
+    width:80%;
+    margin-left:30px;
+    height:300px;
+    object-fit: cover;
+}
+
+.posts-area h1 {
+    font-size: 50px;
+    margin-left:30px;
+}
+
+main .posts-area {
+  width:90%;
+}
+
+
+@media  screen and (max-width:600px) {
+
+    .banner-area {
+        width:100%;
+        display: block;
+      
+}
+
+    .banner-area .left {
+        width:98%;
+        margin:auto;
+     
+    }
+
+    .banner-area .left img {
+        margin:0px;
+    }
+     
+    .banner-area  h2 {
+        
+        margin-top:20px;
+    }
+
+    .banner-area .right {
+        width:98%;
+        margin:auto;
+        
+        
+    }
+        
+      
+    .banner-area .right img {
+         margin:0px;
+         width:100%;
+         
+        }
+
+        .card-body {
+           margin-left:20px;
+           width:100%;
+        }
+
+        .card-body button {
+            margin-left:90px!important;
+        }
+     
+
+    .posts-area  {
+        width:100%;
+    }
+    
+    
+   .posts-area h1 {
+       margin-left: 200px!important;
+       margin-top:-120px;
+       margin-bottom:20px;
+       font-size:30px;
+   }
+
+
+   
+   .post-card-sides  {
+       width:500px!important;
+       
+   } 
+
+   .card-img {
+       width:100%;
+       margin-left:25px;
+   }
+
+   
+}
+       
+
+   @media  screen and (max-width:300px)  {
+
+   
+    .banner-area {
+        width:100%;
+        display: block;
+      
+}
+
+    .banner-area .left {
+        width:100%;
+        margin:auto;
+        
+       
+    }
+     
+    .banner-area .left img {
+        width:550px;
+    }
+    .banner-area  h2 {
+       width:200px;
+       margin-left:150px;
+       margin-top:20px;
+    }
+
+    .banner-area .right {
+        width:98%;
+        margin:auto;
+    }
+
+    .banner-area .right img {
+        
+       width:450px;
+        margin-left:40px;
+       }
+
+   .card-body {
+       margin-left:50px;
+       width:400px;
+       
+   }
+
+   .card-body button {
+       margin:0px!important;
+       margin-top:50px!important;
+   }
+
+   .posts-area h1 {
+       width:200px;
+       margin:0px!important;
+       margin-left:150px!important;
+   }
+
+   .post-cards-area .card img {
+       width:450px;
+   }
+
+
+}}
+
+
